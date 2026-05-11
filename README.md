@@ -2,7 +2,7 @@
 
 I enjoy coding.
 
-I build apps for Desktop, Web, macOS and Android  
+I build apps for Windows, macOS, Web, iOS and Android  
 because one platform wasn’t enough problems.
 
 I write software that respects RAM, CPU and disk space.

@@ -1,6 +1,6 @@
 # Hi, I'm Koko 😃
 
-I'm 18 years old and have been studying software engineering for the past 4 years at the **Vocational High School of Electrical Engineering and Electronics, Plovdiv, Bulgaria**.
+I'm 19 years old and currently studying Computer and Software Engineering at the Technical University of Sofia, Bulgaria.
 
 I enjoy coding.
 
